@@ -31,13 +31,13 @@
     <title>Mantenimiento de productos</title>
 
     <!-- vendor css -->
-    <link href="../lib/font-awesome/css/font-awesome.css" rel="stylesheet">
-    <link href="../lib/Ionicons/css/ionicons.css" rel="stylesheet">
-    <link href="../lib/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet">
-    <link href="../lib/jquery-switchbutton/jquery.switchButton.css" rel="stylesheet">
+    <link href="../../public/lib/font-awesome/css/font-awesome.css" rel="stylesheet">
+    <link href="../../public/lib/Ionicons/css/ionicons.css" rel="stylesheet">
+    <link href="../../public/lib/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet">
+    <link href="../../public/lib/jquery-switchbutton/jquery.switchButton.css" rel="stylesheet">
 
     <!-- Bracket CSS -->
-    <link rel="stylesheet" href="../css/bracket.css">
+    <link rel="stylesheet" href="../../public/css/bracket.css">
   </head>
 
   <body>
@@ -816,15 +816,15 @@
     </div><!-- br-mainpanel -->
     <!-- ########## END: MAIN PANEL ########## -->
 
-    <script src="../lib/jquery/jquery.js"></script>
-    <script src="../lib/popper.js/popper.js"></script>
-    <script src="../lib/bootstrap/bootstrap.js"></script>
-    <script src="../lib/perfect-scrollbar/js/perfect-scrollbar.jquery.js"></script>
-    <script src="../lib/moment/moment.js"></script>
-    <script src="../lib/jquery-ui/jquery-ui.js"></script>
-    <script src="../lib/jquery-switchbutton/jquery.switchButton.js"></script>
-    <script src="../lib/peity/jquery.peity.js"></script>
+    <script src="../../public/lib/jquery/jquery.js"></script>
+    <script src="../../public/lib/popper.js/popper.js"></script>
+    <script src="../../public/lib/bootstrap/bootstrap.js"></script>
+    <script src="../../public/lib/perfect-scrollbar/js/perfect-scrollbar.jquery.js"></script>
+    <script src="../../public/lib/moment/moment.js"></script>
+    <script src="../../public/lib/jquery-ui/jquery-ui.js"></script>
+    <script src="../../public/lib/jquery-switchbutton/jquery.switchButton.js"></script>
+    <script src="../../public/lib/peity/jquery.peity.js"></script>
 
-    <script src="../js/bracket.js"></script>
+    <script src="../../public/js/bracket.js"></script>
   </body>
 </html>
