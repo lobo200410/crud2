@@ -42,7 +42,7 @@ public function delete_producto($prod_id){
         return $resultado=$sql->fetchAll();
     }
 
-      public function update_pr($prod_id,$prod_nom){
+      public function update_producto($prod_id,$prod_nom){
         $conectar= parent::Conexion();
         parent::set_names();
         $sql="UPDATE tm_productos 
